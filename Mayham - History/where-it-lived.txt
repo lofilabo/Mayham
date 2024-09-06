@@ -1,0 +1,11 @@
+General:
+/media/richard/TOSHIBA EXT1/ZZZZ-OLD-from-old-layout/TIDY-FROM-SYSTEM/react/
+
+actual:
+/media/richard/TOSHIBA EXT1/ZZZZ-OLD-from-old-layout/TIDY-FROM-SYSTEM/react/drg1/drg1/
+
+.../src/App.js
+contains
+
+const cp1 = "A dream of another existence, You wish to die, A dream of another world";
+

@@ -1,0 +1,5 @@
+1. Change to the programme directory
+cd drg1
+
+2. Start
+npm start
